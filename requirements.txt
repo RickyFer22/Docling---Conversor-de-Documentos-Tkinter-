@@ -1,0 +1,8 @@
+tkinter
+ttk
+filedialog
+messagebox
+json
+threading
+os
+docling
